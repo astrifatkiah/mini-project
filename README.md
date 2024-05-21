@@ -2,5 +2,5 @@
 Proses registrasi, login, dan forget password menggunakan codeigniter 3.
 
 untuk login 
-email : dedesari@gmail.com
-password : admin
+email : kiafatkia97@gmail.com
+password : astri
